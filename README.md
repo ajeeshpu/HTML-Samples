@@ -1,8 +1,9 @@
 HTML-Samples
 ============
 
-This is a node enabled version of the HTML Samples provided for Durandal 2.0.1. You may find this here
-http://durandaljs.com/pages/downloads/
+This is a node enabled version of the HTML Samples provided for Durandal 2.0.1. This just uses node to serve out the Durandaljs static assets
+found at http://durandaljs.com/pages/downloads/
+(
 
 All copyrights for everything in the public folder are to Bluespire Consulting Inc.
 
